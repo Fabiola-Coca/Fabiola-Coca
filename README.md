@@ -1,16 +1,16 @@
-## Hi there 👋
+# 🌸 ¡Hola, soy Fabiola! ✨
 
-<!--
-**Fabiola-Coca/Fabiola-Coca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de Ing en sistemas
+📚 Apasionada por la ciencia, la salud y el bienestar  
+🌎 Orgullosamente de Bolivia 🇧🇴
+## 💖 Un poco sobre mí
 
-Here are some ideas to get you started:
+- 🔬 Me fascina el cuerpo humano y todo lo que podemos hacer para cuidarlo.
+- 🧬 En constante aprendizaje para marcar la diferencia en la vida de las personas.
+- ☕ Amante del café, los libros y las buenas conversaciones.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Frase motivacional
+
+> “🌻 *Cree en ti, incluso cuando nadie más lo haga. Tu luz es única.*”
+
+---
